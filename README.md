@@ -32,13 +32,17 @@ just assume I am trapped in a segmentation fault (College Exam 😔).
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ---
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rathambhagat&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=rathambhagat&theme=gruvbox_light&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rathambhagat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathambhagat&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180em" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rathambhagat&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rathambhagat&theme=tokyonight&hide_border=true&background=00000000" height="180em" />
+</p>
+```
 
 ---
 
@@ -61,21 +65,10 @@ just assume I am trapped in a segmentation fault (College Exam 😔).
 ![](https://komarev.com/ghpvc/?username=rathambhagat&label=Profile%20Views&color=blueviolet&style=flat)
 
 ---
-
-```bash
 > currently building:
-A game engine in C because therapy is expensive
-
+  A game engine in C because therapy is expensive
 > current status:
-Surviving on caffeine and undefined behavior
-
+  Surviving on caffeine and undefined behavior
 > if code compiles first try:
-Something is definitely wrong
-````
-
+  Something is definitely wrong
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-```
-```
