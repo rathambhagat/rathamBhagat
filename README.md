@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm a second-year AI & Data Science student who loves low-level languages way more than my own sanity.<br>Instead of doing normal college things, I spend my time trying to pull off ridiculous programming stunts.<br>If my code compiles on the first try, I get highly suspicious. If I disappear for a few days,<br>just assume I am trapped in a segmentation fault(College Exam😔).
+Hey! I'm a second-year AI & Data Science student who loves low-level languages way more than my own sanity.<br>Instead of doing normal college things, I spend my time trying to pull off ridiculous programming stunts.<br>If my code compiles on the first try, I get highly suspicious. If I disappear for a few days,<br>just assume I am trapped in a segmentation fault. I am also expert in git version control and System engineering.
 
 
 ## 🌐 Socials:
