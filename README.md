@@ -1,32 +1,21 @@
-<!-- ════════════════════════════════════════════════════════════════════
-     Theme: Low-Level Heaven
-     Author: Pratham Bhagat
-     Philosophy: Write C so the machine feels loved.
-     Warning: This README was compiled with -O3 and zero regrets.
-════════════════════════════════════════════════════════════════════ -->
-
-<!--
-        ╱╲
-       ╱  ╲
-      ╱    ╲
-     ╱  ☆   ╲
-    ╱________╲
-    You found the hidden pyramid. You're a real one.
-    Now go star this repo.
--->
+<!-- ═══════════════════════════════════════════════════════════════
+     Low-Level Heaven — Pratham Bhagat's Profile README
+     Compiled with: gcc -O3 -Wall -Wextra -Werror -pedantic
+     Warnings: 0 | Segfaults: ∞ | Regrets: 0
+═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Wavy Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=220&section=header&text=✨%20Pratham%20Bhagat%20✨&fontSize=42&fontColor=00f7ff&animation=fadeIn&fontAlignY=35&desc=System%20Engineer%20•%20Low-Level%20Architect%20•%20Public%20Learner&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003300,100:00FF00&height=200&section=header&text=Pratham%20Bhagat&fontSize=50&fontColor=00FF00&animation=fadeIn&fontAlignY=35&desc=System%20Engineer%20%E2%80%A2%20Low-Level%20Architect%20%E2%80%A2%20Public%20Learner&descSize=16&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&height=45&lines=System+Engineer+%E2%9A%99%EF%B8%8F;Low-Level+Sorcerer+%F0%9F%94%AE;C+is+my+spirit+animal+%F0%9F%90%8D+(no%2C+that's+Python...+wait);Making+segfaults+beautiful+%F0%9F%92%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=System+Engineer+%E2%9A%99%EF%B8%8F;Low-Level+Sorcerer+%F0%9F%94%AE;C+is+my+spirit+animal;Making+segfaults+beautiful+%F0%9F%92%A5" alt="Typing SVG"/>
 
 <br/>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=rathambhagat&label=%F0%9F%91%BE+Profile+visitors+(including+recruiters)&color=00f7ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=rathambhagat&label=%F0%9F%91%BE+Profile+visitors+(including+recruiters)&color=0e75b6&style=flat" alt="Profile Views"/>
 
 <br/><br/>
 
@@ -37,65 +26,62 @@
 
 </div>
 
+<!-- Monkey watermark — GitHub sanitizes most CSS, so this renders as a subtle corner decoration -->
+<div align="right">
+  <img src="https://media.tenor.com/BqbDH7fBzH0AAAAi/monkey-computer.gif" alt="Monkey coding" width="80"/>
+</div>
+
 ---
 
-<!-- ─── INTRODUCTION ─────────────────────────────────────────────── -->
-
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="180" align="right"/>
-
-## `$ cat /etc/pratham.conf`
+## `$ whoami`
 
 ```c
-// pratham.c — compiled with -O3 -Wall -Wextra -Werror -pedantic
-// Linking against: libcoffee.so, libcuriosity.a
+// pratham.c — linked against libcoffee.so and libcuriosity.a
 
 #include <stdio.h>
-#include <unistd.h>
+#include <stdlib.h>
 
 typedef struct {
     const char *name;
-    const char *title;
+    const char *role;
     const char *location;
     int         segfaults_survived;
 } engineer_t;
 
 int main(void) {
-    engineer_t pratham = {
+    engineer_t me = {
         .name     = "Pratham Bhagat",
-        .title    = "System Engineer",
+        .role     = "System Engineer",
         .location = "India 🇮🇳",
         .segfaults_survived = __INT_MAX__,
     };
 
-    printf("I write C so the machine feels loved.\n");
-    printf("I optimize systems until they beg for mercy.\n");
-    printf("Learning in public — because my mistakes\n"
-           "should help others too.\n");
+    puts("I write C so the machine feels loved.");
+    puts("I optimize systems until they beg for mercy.");
+    puts("Learning in public — my mistakes should help others too.");
 
-    return EXIT_SUCCESS; // unlike most of my programs
+    return 0; // unlike most of my programs
 }
 ```
 
-<br clear="right"/>
+> *"Segmentation fault (core dumped) — also my autobiography."*
 
 ---
 
-<!-- ─── TECH STACK ────────────────────────────────────────────────── -->
-
-## 🛠️ Tech Stack — The Low-Level Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### ⚔️ Languages
 
-| | Language | Relationship Status |
+| | Language | Status |
 |---|---|---|
 | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) | **C** | 💀 Till death do us part |
 | ![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) | **Assembly** | 🫡 Respect, not love |
 | ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) | **Rust** | 🤠 The borrow checker and I have trust issues |
-| ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) | **Go** | 🐹 Simple. Clean. Suspiciously easy. |
+| ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) | **Go** | 🐹 Suspiciously easy |
 | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) | **C++** | 🤝 We talk at parties |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | **Python** | 🐍 For when I feel lazy (so, Sundays) |
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | **Python** | 🐍 For when I feel lazy |
 
 ### 🔬 Weapons of Mass Debugging
 
@@ -125,106 +111,40 @@ int main(void) {
 
 ---
 
-<!-- ─── CURRENT QUEST ─────────────────────────────────────────────── -->
-
-## 🎯 Current Quest
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│   🔨  Building:   A lock-free, wait-free, cache-oblivious, zero-copy   │
-│                   thing that will probably segfault.                     │
-│                                                                         │
-│   📖  Learning:   How to beat the compiler at its own game.             │
-│                                                                         │
-│   ⚡  Solving:    Real-life latency problems                            │
-│                   — one cache line at a time.                            │
-│                                                                         │
-│   ☕  Fuel:       Caffeine + undefined behavior.                        │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- ─── GITHUB STATS ──────────────────────────────────────────────── -->
-
-## 📊 GitHub Stats
+## 📊 Live Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rathambhagat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&icon_color=00f7ff&title_color=00f7ff" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=rathambhagat&theme=radical&hide_border=true&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rathambhagat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&icon_color=00FF00&title_color=00FF00" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=rathambhagat&theme=radical&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathambhagat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00f7ff" alt="Top Languages"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathambhagat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00" alt="Top Languages"/>
 
 </div>
 
 ---
-
-<!-- ─── CONTRIBUTION GRAPH ────────────────────────────────────────── -->
 
 ## 📈 Contribution Graph — *When I'm not debugging pointers*
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rathambhagat&theme=github-dark&hide_border=true&area=true&custom_title=Contributions%20(When%20I'm%20not%20debugging%20pointers)&line=00f7ff&point=00f7ff&area_color=00f7ff" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rathambhagat&theme=github-dark&hide_border=true&area=true&title_color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&bg_color=0D1117&custom_title=Contributions%20(when%20I'm%20not%20debugging%20pointers)" width="95%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-<!-- ─── SNAKE ANIMATION ───────────────────────────────────────────── -->
-
-## 🐍 My Productivity Being Devoured by a Snake *(the snake is a memory leak)*
+## 🐍 Snake Eating My Contributions *(the snake is a memory leak)*
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rathambhagat/rathambhagat/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rathambhagat/rathambhagat/output/github-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/rathambhagat/rathambhagat/output/github-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%"/>
 
 </div>
 
-<details>
-<summary>🔧 <b>Enable the snake</b> — Create <code>.github/workflows/snake.yml</code> in this repo</summary>
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rathambhagat
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 ---
-
-<!-- ─── TROPHIES ──────────────────────────────────────────────────── -->
 
 ## 🏆 Trophies
 
@@ -236,45 +156,35 @@ jobs:
 
 ---
 
-<!-- ─── FUN CORNER ────────────────────────────────────────────────── -->
+## ⚡ Current Quest
 
-## 😂 Fun Corner
+- 🔨 **Building:** A lock-free, wait-free, cache-oblivious, zero-copy thing that will probably segfault on first run
+- 📖 **Learning:** How to outsmart the compiler (and my past self)
+- ⚡ **Solving:** Real-world latency problems — one cache line at a time
+- ☕ **Fuel:** Mass amounts of caffeine + undefined behavior
+
+---
+
+## 🤡 Fun Corner
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="250"/>
+<img src="https://media.tenor.com/BqbDH7fBzH0AAAAi/monkey-computer.gif" alt="Monkey coding" width="150"/>
 
 </div>
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│  🧠  My code works on the first try…                                  │
-│      …in an alternate dimension.                                       │
-│                                                                        │
-│  💀  Segmentation fault (core dumped)                                  │
-│      — also my autobiography.                                          │
-│                                                                        │
-│  🏎️  I once optimized a loop so hard                                   │
-│      it finished before I ran it.                                       │
-│                                                                        │
-│  🔥  When I'm not optimizing:                                          │
-│      Crying over a missing semicolon in C.                              │
-│                                                                        │
-│  🐛  Favorite hobby:                                                   │
-│      Treating memory leaks like pets. I name them.                      │
-│                                                                        │
-│  📡  Career goal:                                                      │
-│      Replace myself with a shell script. Almost there.                  │
-│                                                                        │
-└────────────────────────────────────────────────────────────────────────┘
-```
+- 🧠 "My code runs on the first try… in an alternate dimension."
+- 💀 "Segmentation fault (core dumped) — also my autobiography."
+- 🏎️ "I once optimized a loop so hard it finished before I ran it."
+- 🐛 "I treat memory leaks like pets. I name them."
+- 📡 "Career goal: replace myself with a shell script. Almost there."
+- 🔥 "When I'm not optimizing: crying over a missing semicolon in C."
 
 <div align="center">
 
 ### 📹 My Debugging Process (Real Footage)
 
-[![Watch Video](https://img.shields.io/badge/▶_Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
+[![Watch](https://img.shields.io/badge/▶_Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
 
 > ⚠️ *Okay, it's a Rickroll. You deserved it.*
 
@@ -288,33 +198,21 @@ jobs:
 
 ---
 
-<!-- ─── TOP CONTRIBUTED ───────────────────────────────────────────── -->
-
 ## 🔝 Top Contributed Repos
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=rathambhagat&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=rathambhagat&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repos"/>
 
 </div>
 
 ---
 
-<!-- ─── FOOTER ────────────────────────────────────────────────────── -->
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="120"/>
+<img src="https://i.gifer.com/ZZ5H.gif" width="120" alt="Stars"/>
 
 <br/>
-
-```
-        *    .  *       .             *
-    *   .        *    .    *    *
-  .       *           .        .      *
-      .      *    .        *
-    *     .    *      .        *    .
-```
 
 *Made with ❤️, ☕, and a healthy fear of `undefined behavior`.*
 
@@ -324,7 +222,7 @@ jobs:
 
 <br/>
 
-<!-- Wavy Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f7ff&height=120&section=footer" width="100%"/>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:003300,100:00FF00&height=120&section=footer" width="100%"/>
 
 </div>
