@@ -153,7 +153,6 @@
 
 [![Watch the full debugging session](https://img.shields.io/badge/▶_Watch_My_Debugging_Process-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
 
-> ⚠️ *It's a Rickroll. You clicked it. You deserved it.*
 
 </div>
 
