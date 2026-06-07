@@ -1,21 +1,19 @@
-<table width="100%" background="matrix.gif" bgcolor="#000000">
-  <tr>
-    <td align="center" valign="middle" style="padding: 24px 12px;">
-      <h1 align="center">Pratham Bhagat 🇮🇳</h1>
-      <h3 align="center">System Engineer • Low-Level Sorcerer • Public Learner</h3>
+<p align="center">
+  <img src="matrix.gif" width="100%" alt="Matrix animation"/>
+</p>
 
-      <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=rathambhagat&label=👾+Profile+visitors+(including+recruiters)&color=0e75b6&style=flat" alt="Profile Views"/>
-      </p>
+<h1 align="center">Pratham Bhagat 🇮🇳</h1>
+<h3 align="center">System Engineer • Low-Level Sorcerer • Public Learner</h3>
 
-      <p align="center">
-        <a href="https://instagram.com/gottalove.pratham"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-        <a href="https://www.linkedin.com/in/pratham-bhagat-38489a39b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="mailto:prathambhagat720@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rathambhagat&label=👾+Profile+visitors+(including+recruiters)&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/gottalove.pratham"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/pratham-bhagat-38489a39b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prathambhagat720@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <!-- GitHub Badges (always work) -->
 <p align="center">
