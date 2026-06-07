@@ -15,7 +15,7 @@
 
 | | |
 |:---|:---:|
-| **System Engineer • Low-level sorcerer**<br/>I speak C so the machine feels loved.<br/>Learning in public, one segfault at a time.<br/><br/>*"Segmentation fault (core dumped) —<br/>also my autobiography."* | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnp1ZHZ6dWZ6dWZ6dWZ6dWZ6dWZ6dWZ6dWZ6dWZ6dWZ6dWZ6&ep=clips&rid=giphy.gif&ct=g" width="180" alt="Monkey coding"/> |
+| **System Engineer • Low-level sorcerer**<br/>I speak C so the machine feels loved.<br/>Learning in public, one segfault at a time.<br/><br/>*"Segmentation fault (core dumped) —<br/>also my autobiography."* | <img src="https://i.imgur.com/1Q5DpL7.png" width="160" alt="Monkey coding"/> |
 
 ---
 
