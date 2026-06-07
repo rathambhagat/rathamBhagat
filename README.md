@@ -88,10 +88,8 @@
 ## 📊 Live Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rathambhagat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&icon_color=00FF00&title_color=00FF00" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathambhagat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00" alt="Top Languages"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rathambhagat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&icon_color=00FF00&title_color=00FF00" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathambhagat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00" alt="Top Languages" />
 </div>
 
 ---
@@ -99,9 +97,7 @@
 ## 📈 Contribution Graph — *When I'm not debugging pointers*
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rathambhagat&theme=github-dark&hide_border=true&area=true&title_color=00FF00&bg_color=0D1117&line=00FF00&point=00FF00&area_color=00FF00" width="95%" alt="Contribution Graph"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rathambhagat&theme=github-dark&hide_border=true&area=true&title_color=00FF00&bg_color=0D1117&line=00FF00&point=00FF00&area_color=00FF00" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -111,9 +107,7 @@
 *My contributions being devoured by a snake (the snake is a memory leak)*
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake eating contributions"/>
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake eating contributions"/>
 </div>
 
 ---
@@ -121,9 +115,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rathambhagat&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=rathambhagat&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
