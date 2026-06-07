@@ -1,5 +1,5 @@
 <h1 align="center">Pratham Bhagat 🇮🇳</h1>
-<h3 align="center">System Engineer • Low-Level Architect • Public Learner</h3>
+<h3 align="center">System Engineer • Low-Level Sorcerer • Public Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rathambhagat&label=👾+Profile+visitors+(including+recruiters)&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -11,27 +11,25 @@
   <a href="mailto:prathambhagat720@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<div align="right">
-  <img src="https://media.tenor.com/BqbDH7fBzH0AAAAi/monkey-computer.gif" width="80" alt="monkey coding" />
-</div>
+---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=System+Engineer+%E2%9A%99%EF%B8%8F;Low-Level+Sorcerer+%F0%9F%94%AE;C+is+my+spirit+animal+%F0%9F%92%80;Making+segfaults+beautiful+%F0%9F%92%A5;One+cache+line+at+a+time+%E2%9A%A1" alt="Typing SVG"/>
-
-</div>
+| | |
+|:---|---:|
+| **System Engineer • Low-level sorcerer**<br/>I speak C so the machine feels loved.<br/>Learning in public, one segfault at a time.<br/><br/>*"Segmentation fault (core dumped) —<br/>also my autobiography."* | <img src="https://i.giphy.com/media/26ufdipQqU2lhNA4g/giphy.webp" width="120" alt="monkey coding"/> |
 
 ---
 
-> *System Engineer • Low-level sorcerer • I speak C so the machine feels loved. Learning in public, one segfault at a time.*
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=System+Engineer+%E2%9A%99%EF%B8%8F;Low-Level+Sorcerer+%F0%9F%94%AE;C+is+my+spirit+animal+%F0%9F%92%80;Making+segfaults+beautiful+%F0%9F%92%A5;One+cache+line+at+a+time+%E2%9A%A1;malloc(sizeof(cookie))+for+you+%F0%9F%8D%AA" alt="Typing SVG"/>
+
+</div>
 
 ---
 
 ## `$ whoami`
 
-🇮🇳 Based in India. I write C until the machine begs for mercy. I optimize systems until the profiler runs out of things to blame. I debug at 3 AM without StackOverflow — not by choice, but because that's what the job demands.
-
-> *"Segmentation fault (core dumped) — also my autobiography."*
+🇮🇳 Based in India. I write C until the machine begs for mercy. I optimize systems until the profiler runs out of things to blame. I debug at 3 AM without StackOverflow — not by choice, but because that's what the segfault demands.
 
 ---
 
@@ -40,7 +38,7 @@
 ### ⚔️ Languages
 
 | Badge | Language | Relationship Status |
-|---|---|---|
+|:---:|:---|:---|
 | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) | **C** | 💀 Till death do us part |
 | ![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) | **Assembly** | 🫡 Respect, not love |
 | ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) | **Rust** | 🤠 The borrow checker and I have trust issues |
@@ -67,7 +65,7 @@
 
 ![Debugging at 3 AM](https://img.shields.io/badge/Debugging_at_3AM_without_StackOverflow-ff0000?style=for-the-badge&logo=stackoverflow&logoColor=white)
 ![Reading Assembly Dumps](https://img.shields.io/badge/Reading_Assembly_Dumps_for_Fun-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Blaming the Compiler](https://img.shields.io/badge/Blaming_the_Compiler-gray?style=for-the-badge&logo=gnu&logoColor=white)
+![Blaming the Compiler](https://img.shields.io/badge/Blaming_the_Compiler_First-555555?style=for-the-badge&logo=gnu&logoColor=white)
 
 </div>
 
@@ -122,6 +120,16 @@
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rathambhagat&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
 ### ⚡ Current Quest
 
 - 🔨 **Building:** A lock-free, wait-free, cache-oblivious, zero-copy thing that will probably segfault on first run
@@ -140,15 +148,15 @@
 - 🐛 "I treat memory leaks like pets. I name them. I miss them when Valgrind kills them."
 - 📡 "Career goal: replace myself with a shell script. Almost there."
 - 🔥 "When I'm not optimizing: crying over a missing semicolon in C."
-- 🧩 "There are only two hard things in CS: cache invalidation, naming things, and off-by-one errors."
+- 🧩 "There are only two hard problems in CS: cache invalidation, naming things, and off-by-one errors."
 
 <div align="center">
 
 #### 📹 My Debugging Process (Real Footage)
 
-[![Watch the full debugging session](https://img.shields.io/badge/▶_Watch_Debugging_Session-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
+[![Watch the full debugging session](https://img.shields.io/badge/▶_Watch_My_Debugging_Process-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
 
-> ⚠️ *It's a Rickroll. You deserved it for clicking.*
+> ⚠️ *It's a Rickroll. You clicked it. You deserved it.*
 
 </div>
 
@@ -172,6 +180,6 @@
 
 **⭐ Star this repo if you've ever cried over a missing semicolon in C.**
 
-**If you made it this far, you deserve a `malloc(sizeof(cookie))` 🍪**
+**If you made it this far — `malloc(sizeof(cookie))` 🍪 — you've earned it.**
 
 </div>
