@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="matrix.gif" width="100%" alt="Matrix animation"/>
+  <img src="matrix-banner.svg" width="100%" alt="Pratham Bhagat matrix banner"/>
 </p>
-
-<h1 align="center">Pratham Bhagat 🇮🇳</h1>
-<h3 align="center">System Engineer • Low-Level Sorcerer • Public Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rathambhagat&label=👾+Profile+visitors+(including+recruiters)&color=0e75b6&style=flat" alt="Profile Views"/>
