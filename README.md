@@ -20,9 +20,18 @@
 
 ---
 
-| | |
-|:---|:---:|
-| **System Engineer • Low-Level Sorcerer**<br/>I speak C so the machine feels loved.<br/>Learning in public, one segfault at a time.<br/><br/>*"Segmentation fault (core dumped) —<br/>also my autobiography."* | <img src="monkey.gif" width="260" alt="Monkey coding on computer"/> |
+<table>
+  <tr>
+    <td valign="middle">
+      <h2>System Engineer • Low-Level Sorcerer</h2>
+      <p>I speak C so the machine feels loved.<br/>Learning in public, one segfault at a time.</p>
+      <p><em>"Segmentation fault (core dumped) —<br/>also my autobiography."</em></p>
+    </td>
+    <td valign="middle">
+      <img src="monkey.gif" width="320" alt="Monkey coding on computer"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
