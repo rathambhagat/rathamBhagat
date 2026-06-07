@@ -22,7 +22,7 @@
 
 | | |
 |:---|:---:|
-| **System Engineer • Low-level sorcerer**<br/>I speak C so the machine feels loved.<br/>Learning in public, one segfault at a time.<br/><br/>*"Segmentation fault (core dumped) —<br/>also my autobiography."* | <img src="monkey.gif" width="180" alt="Monkey coding on computer"/> |
+| **System Engineer • Low-Level Sorcerer**<br/>I speak C so the machine feels loved.<br/>Learning in public, one segfault at a time.<br/><br/>*"Segmentation fault (core dumped) —<br/>also my autobiography."* | <img src="monkey.gif" width="260" alt="Monkey coding on computer"/> |
 
 ---
 
@@ -162,7 +162,6 @@
 
 [![Watch the full debugging session](https://img.shields.io/badge/▶_Watch_My_Debugging_Process-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
 
-> ⚠️ *It's a Rickroll. You clicked it. You deserved it.*
 
 </div>
 
