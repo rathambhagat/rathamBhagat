@@ -11,6 +11,13 @@
   <a href="mailto:prathambhagat720@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<!-- GitHub Badges (always work) -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/rathambhagat?style=for-the-badge&logo=github&color=0e75b6&label=Followers" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/rathambhagat?style=for-the-badge&logo=github&color=gold&label=Total%20Stars" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/last-commit/rathambhagat/rathambhagat?style=for-the-badge&logo=github&color=green" alt="Last Commit"/>
+</p>
+
 ---
 
 | | |
@@ -119,11 +126,13 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rathambhagat&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rathambhagat&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" onerror="this.src='https://img.shields.io/badge/Trophies-API%20Unavailable-red?style=for-the-badge&logo=github';"/>
 </div>
+
+> *Note: If trophies don't load, refresh the page or check back later – the API has rate limits. They will appear after a few tries.*
 
 ---
 
@@ -153,6 +162,7 @@
 
 [![Watch the full debugging session](https://img.shields.io/badge/▶_Watch_My_Debugging_Process-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
 
+> ⚠️ *It's a Rickroll. You clicked it. You deserved it.*
 
 </div>
 
@@ -170,7 +180,7 @@
 
 <div align="center">
 
-<img src="https://i.gifer.com/2DV.gif" width="100" alt="Stars"/>
+<img src="https://i.gifer.com/ZZ5H.gif" width="100" alt="Stars"/>
 
 *Made with ❤️, ☕, and a healthy fear of `undefined behavior`.*
 
