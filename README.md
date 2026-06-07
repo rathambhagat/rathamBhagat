@@ -170,7 +170,7 @@
 
 <div align="center">
 
-<img src="https://i.gifer.com/ZZ5H.gif" width="100" alt="Stars"/>
+<img src="https://i.gifer.com/2DV.gif" width="100" alt="Stars"/>
 
 *Made with ❤️, ☕, and a healthy fear of `undefined behavior`.*
 
