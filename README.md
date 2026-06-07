@@ -41,8 +41,6 @@
 |:---:|:---|:---|
 | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) | **C** | 💀 Till death do us part |
 | ![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) | **Assembly** | 🫡 Respect, not love |
-| ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) | **Rust** | 🤠 The borrow checker and I have trust issues |
-| ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) | **Go** | 🐹 Suspiciously easy |
 | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) | **C++** | 🤝 We talk at parties |
 | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | **Python** | 🐍 For when I feel lazy |
 
