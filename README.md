@@ -85,12 +85,19 @@
 
 ---
 
-## 📊 Live Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rathambhagat&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&icon_color=00FF00&title_color=00FF00" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathambhagat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00FF00" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=rathambhagat&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rathambhagat&theme=gruvbox_light&hide_border=false&cache_seconds=86400" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rathambhagat&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -122,9 +129,9 @@
 
 ### ⚡ Current Quest
 
-- 🔨 **Building:** A lock-free, wait-free, cache-oblivious, zero-copy thing that will probably segfault on first run
+- 🔨 **Building:** A lock‑free, wait‑free, cache‑oblivious, zero‑copy thing that will probably segfault on first run
 - 📖 **Learning:** How to outsmart the compiler — and my past self
-- ⚡ **Solving:** Real-world latency problems, one cache line at a time
+- ⚡ **Solving:** Real‑world latency problems, one cache line at a time
 - 🔍 **Obsessing over:** CPU branch prediction, false sharing, and why `volatile` is a lie
 - ☕ **Fuel:** Mass amounts of caffeine + undefined behavior
 
@@ -138,7 +145,7 @@
 - 🐛 "I treat memory leaks like pets. I name them. I miss them when Valgrind kills them."
 - 📡 "Career goal: replace myself with a shell script. Almost there."
 - 🔥 "When I'm not optimizing: crying over a missing semicolon in C."
-- 🧩 "There are only two hard problems in CS: cache invalidation, naming things, and off-by-one errors."
+- 🧩 "There are only two hard problems in CS: cache invalidation, naming things, and off‑by‑one errors."
 
 <div align="center">
 
