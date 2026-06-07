@@ -1,6 +1,4 @@
-<!-- Low-Level Heaven — Pratham Bhagat -->
-
-<h1 align="center">Pratham Bhagat</h1>
+<h1 align="center">Pratham Bhagat 🇮🇳</h1>
 <h3 align="center">System Engineer • Low-Level Architect • Public Learner</h3>
 
 <p align="center">
@@ -13,24 +11,27 @@
   <a href="mailto:prathambhagat720@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- Monkey watermark -->
-<p align="right">
-  <img src="https://media.tenor.com/BqbDH7fBzH0AAAAi/monkey-computer.gif" width="80" style="opacity: 0.4;">
-</p>
+<div align="right">
+  <img src="https://media.tenor.com/BqbDH7fBzH0AAAAi/monkey-computer.gif" width="80" alt="monkey coding" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=650&lines=System+Engineer+%E2%9A%99%EF%B8%8F;Low-Level+Sorcerer+%F0%9F%94%AE;C+is+my+spirit+animal+%F0%9F%92%80;Making+segfaults+beautiful+%F0%9F%92%A5;One+cache+line+at+a+time+%E2%9A%A1" alt="Typing SVG"/>
+
+</div>
+
+---
+
+> *System Engineer • Low-level sorcerer • I speak C so the machine feels loved. Learning in public, one segfault at a time.*
 
 ---
 
 ## `$ whoami`
 
-🇮🇳 System Engineer from India. I write C so the machine feels loved. I optimize systems until they beg for mercy. Learning in public — because my mistakes should help others too.
+🇮🇳 Based in India. I write C until the machine begs for mercy. I optimize systems until the profiler runs out of things to blame. I debug at 3 AM without StackOverflow — not by choice, but because that's what the job demands.
 
 > *"Segmentation fault (core dumped) — also my autobiography."*
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=System+Engineer+%E2%9A%99%EF%B8%8F;Low-Level+Sorcerer+%F0%9F%94%AE;C+is+my+spirit+animal;Making+segfaults+beautiful+%F0%9F%92%A5" alt="Typing SVG"/>
-
-</div>
 
 ---
 
@@ -38,7 +39,7 @@
 
 ### ⚔️ Languages
 
-| | Language | Status |
+| Badge | Language | Relationship Status |
 |---|---|---|
 | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white) | **C** | 💀 Till death do us part |
 | ![Assembly](https://img.shields.io/badge/Assembly-%23000000.svg?style=flat-square&logo=assemblyscript&logoColor=white) | **Assembly** | 🫡 Respect, not love |
@@ -56,14 +57,17 @@
 ![perf](https://img.shields.io/badge/perf-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![eBPF](https://img.shields.io/badge/eBPF-FF6600?style=for-the-badge&logo=linux&logoColor=white)
 ![strace](https://img.shields.io/badge/strace-000000?style=for-the-badge&logo=linux&logoColor=white)
+![ltrace](https://img.shields.io/badge/ltrace-444444?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
-### 🧰 Bonus Skill
+### 🧰 Certified Bonus Skills
 
 <div align="center">
 
 ![Debugging at 3 AM](https://img.shields.io/badge/Debugging_at_3AM_without_StackOverflow-ff0000?style=for-the-badge&logo=stackoverflow&logoColor=white)
+![Reading Assembly Dumps](https://img.shields.io/badge/Reading_Assembly_Dumps_for_Fun-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Blaming the Compiler](https://img.shields.io/badge/Blaming_the_Compiler-gray?style=for-the-badge&logo=gnu&logoColor=white)
 
 </div>
 
@@ -94,14 +98,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://streak-stats.demolab.com?user=rathambhagat&theme=radical&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak"/>
-
-</div>
-
 ---
 
 ## 📈 Contribution Graph — *When I'm not debugging pointers*
@@ -116,7 +112,7 @@
 
 ## 🐍 Snake Animation
 
-*My contributions being eaten by a snake (the snake is a memory leak)*
+*My contributions being devoured by a snake (the snake is a memory leak)*
 
 <div align="center">
 
@@ -126,21 +122,12 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rathambhagat&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies"/>
-
-</div>
-
----
-
 ### ⚡ Current Quest
 
 - 🔨 **Building:** A lock-free, wait-free, cache-oblivious, zero-copy thing that will probably segfault on first run
-- 📖 **Learning:** How to outsmart the compiler (and my past self)
-- ⚡ **Solving:** Real-world latency problems — one cache line at a time
+- 📖 **Learning:** How to outsmart the compiler — and my past self
+- ⚡ **Solving:** Real-world latency problems, one cache line at a time
+- 🔍 **Obsessing over:** CPU branch prediction, false sharing, and why `volatile` is a lie
 - ☕ **Fuel:** Mass amounts of caffeine + undefined behavior
 
 ---
@@ -150,17 +137,18 @@
 - 🧠 "My code runs on the first try… in an alternate dimension."
 - 💀 "Segmentation fault (core dumped) — also my autobiography."
 - 🏎️ "I once optimized a loop so hard it finished before I ran it."
-- 🐛 "I treat memory leaks like pets. I name them."
+- 🐛 "I treat memory leaks like pets. I name them. I miss them when Valgrind kills them."
 - 📡 "Career goal: replace myself with a shell script. Almost there."
 - 🔥 "When I'm not optimizing: crying over a missing semicolon in C."
+- 🧩 "There are only two hard things in CS: cache invalidation, naming things, and off-by-one errors."
 
 <div align="center">
 
 #### 📹 My Debugging Process (Real Footage)
 
-[![Watch](https://img.shields.io/badge/▶_Watch_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
+[![Watch the full debugging session](https://img.shields.io/badge/▶_Watch_Debugging_Session-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
 
-> ⚠️ *Okay, it's a Rickroll. You deserved it.*
+> ⚠️ *It's a Rickroll. You deserved it for clicking.*
 
 </div>
 
@@ -178,9 +166,7 @@
 
 <div align="center">
 
-<p align="right">
-  <img src="https://i.gifer.com/ZZ5H.gif" width="100" alt="Stars"/>
-</p>
+<img src="https://i.gifer.com/ZZ5H.gif" width="100" alt="Stars"/>
 
 *Made with ❤️, ☕, and a healthy fear of `undefined behavior`.*
 
